@@ -5,6 +5,8 @@
 - 🌱 I’m currently Doing my bachelor of engineering at Pune 
 - 📫 How to reach me 
 
+
+
 **Tech Stack**
 
 <code><img height="50" src="https://raw.githubusercontent.com/pistachio04/pistachio04/main/html.png"></code>
@@ -12,7 +14,9 @@
 <code><img height="50" src="https://raw.githubusercontent.com/pistachio04/pistachio04/main/js.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/pistachio04/pistachio04/main/atom.png"></code>
 
+
+
 **Social Media**
 
-<code><img a href="https://www.linkedin.com/in/jaydip-vidhate-6b58b31b9/" height="50" src="https://raw.githubusercontent.com/pistachio04/pistachio04/main/linkedin.png"></code>
+<code><img a href="https://www.linkedin.com/in/msigid10/" height="50" src="https://raw.githubusercontent.com/pistachio04/pistachio04/main/linkedin.png"></code>
 
