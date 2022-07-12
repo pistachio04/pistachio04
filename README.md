@@ -6,7 +6,9 @@
 - 🌱 I’m freshgraduated Information Systems from Amikom University Yogyakarta
 - 👀 I’m currently looking for an internship, part time and full time job
 
-
+<br>
+<br>
+<br>
 
 **Tech Stack**
 
@@ -15,7 +17,9 @@
 <code><img height="50" src="https://raw.githubusercontent.com/pistachio04/pistachio04/main/js.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/pistachio04/pistachio04/main/atom.png"></code>
 
-
+<br>
+<br>
+<br>
 
 **Social Media**
 - 📫 How to reach me 
