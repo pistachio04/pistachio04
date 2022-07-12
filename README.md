@@ -20,7 +20,6 @@
 <br>
 
 **Social Media**
-- 📫 How to reach me 
 <code>
   <a href="https://www.linkedin.com/in/msigid10/">
   <img height="50" src="https://raw.githubusercontent.com/pistachio04/pistachio04/main/linkedin.png">
