@@ -8,7 +8,6 @@
 
 <br>
 <br>
-<br>
 
 **Tech Stack**
 
@@ -17,7 +16,6 @@
 <code><img height="50" src="https://raw.githubusercontent.com/pistachio04/pistachio04/main/js.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/pistachio04/pistachio04/main/atom.png"></code>
 
-<br>
 <br>
 <br>
 
