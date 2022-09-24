@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m M. Sigid Prasetyo
 - 📍  Yogyakarta, Indonesia
-- 💻 I’m interested in UI Design & React Native Mobile Apps
+- 💻 I’m interested in UI Design, React Native Mobile Apps & Software Quality Assurance
 - 🌱 I’m freshgraduated Information Systems from Amikom University Yogyakarta
 - 👀 I’m currently looking for an internship, part time and full time job
 
@@ -15,6 +15,23 @@
 <code><img height="50" src="https://raw.githubusercontent.com/pistachio04/pistachio04/main/css.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/pistachio04/pistachio04/main/js.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/pistachio04/pistachio04/main/atom.png"></code>
+
+<br>
+<br>
+
+**UI Tool**
+
+<code><img height="50" src="https://raw.githubusercontent.com/pistachio04/pistachio04/main/figma.png"></code>
+
+<br>
+<br>
+
+**Software QA Tool**
+
+<code><img height="50" src="https://raw.githubusercontent.com/pistachio04/pistachio04/main/katalon.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/pistachio04/pistachio04/main/selenium.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/pistachio04/pistachio04/main/cucumber.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/pistachio04/pistachio04/main/postman.png"></code>
 
 <br>
 <br>
