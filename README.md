@@ -17,14 +17,14 @@
 <code><img height="50" src="https://raw.githubusercontent.com/pistachio04/pistachio04/main/atom.png"></code>
 
 <br>
-<br>
+
 
 **UI Tool**
 
 <code><img height="50" src="https://raw.githubusercontent.com/pistachio04/pistachio04/main/figma.png"></code>
 
 <br>
-<br>
+
 
 **Software QA Tool**
 
@@ -35,7 +35,7 @@
 <code><img height="50" src="https://raw.githubusercontent.com/pistachio04/pistachio04/main/postman.png"></code>
 
 <br>
-<br>
+
 
 **Social Media**
 
