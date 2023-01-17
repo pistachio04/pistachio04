@@ -28,11 +28,13 @@
 
 **Software QA Tool**
 
+
+<code><img height="50" src="https://raw.githubusercontent.com/pistachio04/pistachio04/main/excel.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/pistachio04/pistachio04/main/jira.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/pistachio04/pistachio04/main/katalon.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/pistachio04/pistachio04/main/cypress.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/pistachio04/pistachio04/main/selenium.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/pistachio04/pistachio04/main/cucumber.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/pistachio04/pistachio04/main/postman.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/pistachio04/pistachio04/main/cypress.svg"></code>
+
 
 <br>
 
