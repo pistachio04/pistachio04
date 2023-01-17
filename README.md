@@ -39,7 +39,5 @@
 
 **Social Media**
 
-<code>
-  <img height="50" src="https://raw.githubusercontent.com/pistachio04/pistachio04/main/linkedin.png">
-</code>
+
 
