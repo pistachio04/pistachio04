@@ -35,6 +35,7 @@
 <code><img height="50" src="https://raw.githubusercontent.com/pistachio04/pistachio04/main/postman.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/pistachio04/pistachio04/main/cypress.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/pistachio04/pistachio04/main/K6.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/pistachio04/pistachio04/main/playwright.svg"></code>
 
 
 <br>
