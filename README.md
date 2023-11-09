@@ -4,7 +4,7 @@
 - 📍  Yogyakarta, Indonesia
 - 💻 I’m interested in UI Design, React Native Mobile Apps & Software Quality Assurance
 - 🌱 I’m freshgraduated Information Systems from Amikom University Yogyakarta
-- 👀 I’m currently looking for an internship, part time and full time job
+- 👀 I’m currently looking for part time and full time job
 
 <br>
 <br>
