@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m M. Sigid Prasetyo
 - 📍  Yogyakarta, Indonesia
-- 💻 I’m interested in UI Design, React Native Mobile Apps & Software Quality Assurance
+- 💻 I’m interested in UI Design, Frontend & Software Quality Assurance
 - 🌱 I’m freshgraduated Information Systems from Amikom University Yogyakarta
 - 👀 I’m currently looking for part time and full time job
 
