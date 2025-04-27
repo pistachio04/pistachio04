@@ -8,8 +8,9 @@
 <br>
 <br>
 
-**Quality Assurance Engineer Portofolio**
-Test Case Portofolio [Open Portofolio]([https://pages.github.com/](https://github.com/pistachio04/Portofolio_Quality_Assurance)).
+**Quality Assurance Engineer Portfolio**  
+
+Test Case Portfolio [Open Portfolio](https://github.com/pistachio04/Portofolio_Quality_Assurance).
 
 
 **Tech Stack**
